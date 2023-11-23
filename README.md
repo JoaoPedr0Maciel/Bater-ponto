@@ -4,7 +4,7 @@ Um programa simples para registrar os horários de entrada e saída dos funcion�
 
 ## Funcionalidades
 
-- Marcar hora de entrada e saída dos funcionários.
+- Marcar hora de entrada e saída dos funcionários, incluindo a data.
 - Visualizar todos os pontos batidos até o momento.
 - Remover um funcionário da lista de pontos registrados.
 
@@ -36,7 +36,6 @@ Não são necessários pré-requisitos especiais. Basta abrir o arquivo `index.h
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests para melhorias.
 
 ## Licença
-
 
 
 **Desenvolvido por [João Pedro Maciel]**
